@@ -22,7 +22,7 @@ public class UserController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello SE-2308!";
+        return "Hello SE-2406!";
     }
 
     @GetMapping("/")
